@@ -1,0 +1,13 @@
+.feed {
+  background-color: #F9F9F9;
+  margin: 0 auto;
+  width: 390px;
+}
+.container {
+  margin: 0 auto;
+  padding: 15px 0 38px;
+  width: 350px;
+  -webkit-box-shadow: 0px 0px 6px 0px rgba(0,0,0,.04);
+  -moz-box-shadow:    0px 0px 6px 0px rgba(0,0,0,.04);
+  box-shadow:         0px 0px 6px 0px rgba(0,0,0,.04);
+}
