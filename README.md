@@ -1,18 +1,27 @@
-# React-Idio
+# News Feed
 
 News feed written with React. Uses Idio API.
 
+**Tech Stack:**
+
+* ES6
+* npm
+* React
+* Jasmine
+
 ## Getting Started
 
-### Installing
+**Installing:**
 
-`npm install`
+`npm i`
 
-### Running app
+\
+**Running app:**
 
 `npm start`
 
-### Running test
+\
+**Running test:**
 
 `npm test -- --watch Perf`
 
