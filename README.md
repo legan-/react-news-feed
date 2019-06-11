@@ -11,7 +11,7 @@ News feed written with React. Uses Idio API.
 
 ## Getting Started
 
-**Installing:**
+**Installation:**
 
 `npm i`
 
